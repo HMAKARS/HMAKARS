@@ -34,7 +34,7 @@
 
 ### 🔥 Streak
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HMAKRS&theme=highcontrast" alt="GitHub Streak" /></a>
+<img alt="GitHub Readme Streak Stats" src="preview.php?user=HMAKRS&amp;theme=highcontrast" style="display: block;">
 
 ---
 
