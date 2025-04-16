@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HMAKARS</h1>
+<h1 align="center">Hi 👋, I'm HMAKRS</h1>
 ---
 
 ### 🛠️ Languages and Tools:
@@ -12,7 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  ...
 </p>
 
 ---
@@ -20,7 +19,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HMAKRS&show_icons=true&theme=github_dark" alt="stats" />
 </p>
 
 ---
@@ -28,7 +27,7 @@
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMAKRS&theme=github-dark-blue" alt="streak"/>
 </p>
 
 ---
@@ -36,7 +35,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAKRS&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
 
 ---
