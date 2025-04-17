@@ -18,7 +18,7 @@
 
 ### 📈 GitHub Stats
 
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=HMAKARS&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -33,8 +33,9 @@
 ---
 
 ### 🔥 Streak
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HMAKARS&theme=highcontrast" alt="GitHub Streak" /></a>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HMAKARS&theme=highcontrast" alt="GitHub Streak" /></a>  
+</p>
 
 ---
 
