@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm HMAKARS</h1>
----
 
 ### 🛠️ Languages and Tools:
 
