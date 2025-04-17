@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HMAKRS</h1>
+<h1 align="center">Hi 👋, I'm HMAKARS</h1>
 ---
 
 ### 🛠️ Languages and Tools:
@@ -41,7 +41,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAKRS&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAKARS&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
 
 ---
